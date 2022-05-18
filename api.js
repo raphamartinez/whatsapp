@@ -5,7 +5,7 @@ const axios = require("axios");
 const shelljs = require("shelljs");
 
 const config = require("./config.json");
-const { Client, LocalAuth } = require("whatsapp-web.js");
+const { Client, Location, List, Buttons, LocalAuth } = require('whatsapp-web.js');
 
 process.title = "whatsapp-node-api";
 global.client = new Client({
@@ -25,7 +25,7 @@ app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 client.on("qr", (qr) => {
-  console.log("qr");
+  console.log('QR RECEIVED', qr);
   fs.writeFileSync("./components/last.qr", qr);
 });
 
