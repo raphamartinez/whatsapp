@@ -1,6 +1,0 @@
-[0516/102741.267:WARNING:spdy_session.cc(3273)] Received RST for invalid stream17
-[0516/103022.079:WARNING:spdy_session.cc(3273)] Received RST for invalid stream19
-[0516/103302.854:WARNING:spdy_session.cc(3273)] Received RST for invalid stream21
-[0516/103543.693:WARNING:spdy_session.cc(3273)] Received RST for invalid stream23
-[0516/103824.680:WARNING:spdy_session.cc(3273)] Received RST for invalid stream25
-[0516/104105.694:WARNING:spdy_session.cc(3273)] Received RST for invalid stream27

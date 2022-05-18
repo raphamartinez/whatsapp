@@ -1,36 +1,3 @@
-2022/05/18-17:19:05.016 3094 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/18-17:19:05.027 3094 Recovering log #2392
-2022/05/18-17:19:05.268 3094 Reusing old log C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002392.log 
-2022/05/18-17:19:17.735 3094 Level-0 table #2398: started
-2022/05/18-17:19:17.766 3094 Level-0 table #2398: 1200767 bytes OK
-2022/05/18-17:19:17.767 3094 Delete type=0 #2392
-2022/05/18-17:19:18.284 3094 Compacting 1@1 + 2@2 files
-2022/05/18-17:19:18.407 3094 Generated table #2399@1: 47501 keys, 2232159 bytes
-2022/05/18-17:19:18.490 3094 Generated table #2400@1: 31108 keys, 1284729 bytes
-2022/05/18-17:19:18.490 3094 Compacted 1@1 + 2@2 files => 3516888 bytes
-2022/05/18-17:19:18.490 3094 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/05/18-17:20:20.058 767c Level-0 table #2402: started
-2022/05/18-17:20:20.087 767c Level-0 table #2402: 1055726 bytes OK
-2022/05/18-17:20:20.089 767c Delete type=2 #2394
-2022/05/18-17:20:20.089 767c Delete type=2 #2395
-2022/05/18-17:20:20.089 767c Delete type=0 #2397
-2022/05/18-17:20:20.089 767c Delete type=2 #2398
-2022/05/18-17:20:25.518 ba54 Compacting 1@1 + 2@2 files
-2022/05/18-17:20:25.618 ba54 Generated table #2403@1: 48487 keys, 2237445 bytes
-2022/05/18-17:20:25.674 ba54 Generated table #2404@1: 31464 keys, 1347109 bytes
-2022/05/18-17:20:25.674 ba54 Compacted 1@1 + 2@2 files => 3584554 bytes
-2022/05/18-17:20:25.674 ba54 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/05/18-17:20:25.675 ba54 Delete type=2 #2399
-2022/05/18-17:20:25.675 ba54 Delete type=2 #2400
-2022/05/18-17:20:25.675 ba54 Delete type=2 #2402
-2022/05/18-17:54:04.337 2f28 Level-0 table #2406: started
-2022/05/18-17:54:04.438 2f28 Level-0 table #2406: 1078442 bytes OK
-2022/05/18-17:54:04.439 2f28 Delete type=0 #2401
-2022/05/18-17:54:05.079 2f28 Compacting 1@1 + 2@2 files
-2022/05/18-17:54:05.213 2f28 Generated table #2407@1: 49669 keys, 2244332 bytes
-2022/05/18-17:54:05.307 2f28 Generated table #2408@1: 32005 keys, 1421841 bytes
-2022/05/18-17:54:05.307 2f28 Compacted 1@1 + 2@2 files => 3666173 bytes
-2022/05/18-17:54:05.308 2f28 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/05/18-17:54:05.309 2f28 Delete type=2 #2403
-2022/05/18-17:54:05.309 2f28 Delete type=2 #2404
-2022/05/18-17:54:05.309 2f28 Delete type=2 #2406
+2022/05/18-19:01:07.465 9528 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/18-19:01:07.465 9528 Recovering log #2405
+2022/05/18-19:01:07.505 9528 Reusing old log C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002405.log 
