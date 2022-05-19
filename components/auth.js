@@ -24,7 +24,10 @@ router.get("/getqr", async (req, res) => {
         res.end();
       } else sendQr(res);
     })
-    .catch(() => sendQr(res));
+    .catch((err) => {
+      console.log(err);
+      sendQr(res)
+    });
 });
 
 function sendQr(res) {

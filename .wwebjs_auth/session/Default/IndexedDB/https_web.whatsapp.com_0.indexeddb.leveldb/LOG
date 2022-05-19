@@ -1,3 +1,2 @@
-2022/05/18-19:01:07.465 9528 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/18-19:01:07.465 9528 Recovering log #2405
-2022/05/18-19:01:07.505 9528 Reusing old log C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002405.log 
+2022/05/19-10:22:16.605 40d8 Creating DB C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/05/19-10:22:16.615 40d8 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001

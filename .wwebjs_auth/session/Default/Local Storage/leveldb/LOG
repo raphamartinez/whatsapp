@@ -1,3 +1,13 @@
-2022/05/18-19:00:59.753 8b40 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2022/05/18-19:00:59.754 8b40 Recovering log #13
-2022/05/18-19:00:59.754 8b40 Reusing old log C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\Local Storage\leveldb/000013.log 
+2022/05/19-10:22:15.654 1fa0 Reusing MANIFEST C:\Users\rapha\Documents\Projects\Dev\Node\whatsapp\whatsapp-node-api\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/05/19-10:22:15.655 1fa0 Recovering log #13
+2022/05/19-10:22:15.655 1fa0 Level-0 table #16: started
+2022/05/19-10:22:15.657 1fa0 Level-0 table #16: 11389 bytes OK
+2022/05/19-10:22:15.659 1fa0 Delete type=0 #13
+2022/05/19-10:22:15.659 66e4 Compacting 4@0 + 0@1 files
+2022/05/19-10:22:15.662 66e4 Generated table #18@0: 121 keys, 3404 bytes
+2022/05/19-10:22:15.662 66e4 Compacted 4@0 + 0@1 files => 3404 bytes
+2022/05/19-10:22:15.663 66e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/19-10:22:15.664 66e4 Delete type=2 #7
+2022/05/19-10:22:15.664 66e4 Delete type=2 #11
+2022/05/19-10:22:15.664 66e4 Delete type=2 #14
+2022/05/19-10:22:15.664 66e4 Delete type=2 #16
